@@ -1,0 +1,32 @@
+.containerFood{
+    width: 1400px;
+    margin: 0 auto;
+   
+    
+
+}
+
+
+.inputdiv {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.foodInput{
+    width: 50%;
+    outline: none;
+    padding: 15px 10px;
+    border-radius: 10px;
+    margin: 20px auto;
+    background: goldenrod;
+    display: block;
+  
+}
+
+.grid{
+    justify-content: center;
+    grid-gap: 40px;
+}
+
+
+

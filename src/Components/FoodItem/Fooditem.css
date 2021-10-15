@@ -1,0 +1,22 @@
+.para {
+    width: auto;
+}
+
+.sfoodbtn{
+    padding: 10px 15px;
+    background: goldenrod;
+    color: black;
+    border: none;
+    outline: none;
+    font-weight: 500;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+.foodanchor{
+    margin: 0;
+    
+}
+
+

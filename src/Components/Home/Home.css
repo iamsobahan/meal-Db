@@ -1,0 +1,23 @@
+.banner {
+    background: url(../../images/ban.jpg) no-repeat center;
+    background-size: cover;
+    padding-top: 150px;
+    padding-bottom: 300px;
+}
+
+.containerHome {
+    width: 1400px;
+    margin: 0 auto;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1,h2,h3,h4,h5,h6,p {
+    margin: 20px 0;
+    width : 400px;
+}
+
+.a {
+    margin: 0;
+}
+

@@ -1,0 +1,127 @@
+[{
+
+    "name": "Sobahan Al Tahsin",
+    "salary": 40000,
+    "position": "Manager",
+    "details": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem",
+    "email": "iamsobahan@gmail.com",
+    "img": "https://i.ibb.co/PGyRJw3/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-ta.jpg"
+},
+
+{
+
+    "name": "Jubair Talha",
+    "salary": 30000,
+    "position": "Cook",
+    "details": "I must explain to you how all this mistaken idea of denouncing pleasure.",
+    "email": "jubairtalha@gmail.com",
+    "img": "https://i.ibb.co/yScWLPd/male-beauty-concept-portrait-fashionable-young-man-with-stylish-haircut-wearing-trendy-suit-posing-b.jpg"
+},
+{
+
+    "name": "seam rahman",
+    "salary": 20000,
+    "position": "Assistant cheif",
+    "details": "Li Europan lingues es membres del sam familie. Lor separat existentie es un myth",
+    "email": "seamrahman@gmail.com",
+    "img": "https://i.ibb.co/2jjTHvD/handsome-confident-smiling-man-with-hands-crossed-chest.jpg"
+},
+
+{
+
+    "name": "Farhan Rahman",
+    "salary": 10000,
+    "position": "Waiter",
+    "details": "The European languages are members of the same family. Their separate existence is a myth.",
+    "email": "farhanrahman@gmail.com",
+    "img": "https://i.ibb.co/QJBpft1/bohemian-man-with-his-arms-crossed.jpg"
+},
+
+{
+
+    "name": "Shawon",
+    "salary": 35000,
+    "position": "Darowan",
+    "details": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there",
+    "email": "iamshowon@gmail.com",
+    "img": "https://i.ibb.co/zxhdqSR/close-up-happy-redhead-man-face-smiling-with-white-teeth-camera-wearing-glasses-better-sight-t-shirt.jpg"
+},
+
+{
+
+    "name": "junayed ahmed",
+    "salary": 34000,
+    "position": "Assistant Manager",
+    "details": "A wonderful serenity has taken possession of my entire soul, like these sweet mornings.",
+    "email": "junayedahmed@gmail.com",
+    "img": "https://i.ibb.co/syxm9Q3/portrait-joyful-young-man-white-shirt.jpg"
+},
+
+{
+
+    "name": "Rashedul islam",
+    "salary": 39000,
+    "position": "Owner",
+    "details": "One morning, when Gregor Samsa woke from troubled dreams.",
+    "email": "rashedulislam@gmail.com",
+    "img": "https://i.ibb.co/g3ZdJHP/close-up-confident-male-employee-white-collar-shirt-smiling-camera-standing-self-assured-against-stu.jpg"
+},
+
+
+{
+
+    "name": "Tanzim Tabassum",
+    "salary": 45000,
+    "position": "Desk Executive",
+    "details": "The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax.",
+    "email": "tanzimtabassum@gmail.com",
+    "img": "https://i.ibb.co/BTBx2PK/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction.jpg"
+},
+
+
+{
+
+    "name": "Nahruma Tarannuma",
+    "salary": 50000,
+    "position": "Waiter",
+    "details": "abc def ghi jkl mno pqrs tuv wxyz ABC DEF GHI JKL MNO PQRS TUV.",
+    "email": "nahrumatarannuma@gmail.com",
+    "img": "https://i.ibb.co/Fmch9zM/young-beautiful-woman-pink-warm-sweater-natural-look-smiling-portrait-isolated-long-hair.jpg"
+},
+
+
+{
+
+    "name": "Raihan Ahmed",
+    "salary": 43000,
+    "position": "Head Chef",
+    "details": "But I must explain to you how all this mistaken idea of denouncing pleasure.",
+    "email": "raihanahmed@gmail.com",
+    "img": "https://i.ibb.co/fp6Wt1v/elegant-man-with-folded-arms.jpg"
+},
+
+
+{
+
+    "name": "Rahat Khan",
+    "salary": 34000,
+    "position": "Waiter",
+    "details": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+    "email": "rahatkhan@gmail.com",
+    "img": "https://i.ibb.co/JjT13bK/portrait-positive-confident-businessman.jpg"
+},
+
+
+
+
+{
+
+    "name": "Tasnim Tonni",
+    "salary": 35000,
+    "position": "Cook",
+    "details": "I am full stack web developer.Far far away, behind the word mountains",
+    "email": "tasnimtonni@gmail.com",
+    "img": "https://i.ibb.co/DGsyMP5/accountant-office.jpg"
+
+}
+]
